@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788717334735",
+    "project_id": "xoomm-94f87",
+    "storage_bucket": "xoomm-94f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788717334735:android:d9099855054085187747ba",
+        "android_client_info": {
+          "package_name": "com.example.xoomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788717334735-bmgi9r6gdljvio5mhijnfs5levl9j138.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xoomm",
+            "certificate_hash": "36871b6926656d8f5631e12b61b7877cb727bda0"
+          }
+        },
+        {
+          "client_id": "788717334735-r3t9kb5ptp35djhv7nqi5ea19hiqt144.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCxGygw6rkwgupjr_txuBFML6nTB0sYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788717334735-r3t9kb5ptp35djhv7nqi5ea19hiqt144.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
